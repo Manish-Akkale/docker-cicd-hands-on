@@ -9,7 +9,6 @@ class DevopsMasteryApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Assertions.assertTrue(false);
 	}
 
 }
